@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://monitoreo-autohospedado-vs-saas-en-2026-qwiwmgcb4.vercel.app/sitemap.xml
